@@ -1,0 +1,26 @@
+a:link{
+    color:blueviolet;
+}
+a:visited{
+    color:greenyellow;
+}
+a:hover{
+    color: olive;
+}
+a:active{
+    color:darkgoldenrod
+}
+.button{
+    border-radius: 5px;
+    border: none;
+    background-color:gray;
+    color: #FFFF;
+    text-align: center;
+    font-size: 24px;
+}
+.button:hover {background-color:rgb(6, 87, 157);}
+
+.button:active{
+    background-color:aquamarine;
+    box-shadow: 0 10px #666;
+}
